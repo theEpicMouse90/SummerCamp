@@ -1,0 +1,5 @@
+1) Go to github.com and create a github account
+2) Make a repository called My-First-Repository
+3) Open Terminal or CMD
+4) Clone your repository
+5) Start coding on VS code or your IDE

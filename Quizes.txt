@@ -1,0 +1,2 @@
+1) Add code from your computer to your repository
+2) Make a branch named your name
