@@ -9,5 +9,4 @@ quit, or q
 the numbers from 1 to 10, but
 the user can tell the code to
 skip a number or not
-
 '''
